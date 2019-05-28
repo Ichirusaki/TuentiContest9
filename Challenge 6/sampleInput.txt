@@ -1,0 +1,17 @@
+4
+4
+dad
+bad
+cab
+cda
+2
+ab
+bc
+2
+aa
+aab
+4
+ddd
+bdd
+bbd
+acc
